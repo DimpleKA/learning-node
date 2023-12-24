@@ -1,0 +1,29 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "a node js pachkage by vatsal",
+  "main": "myfirst.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DimpleKA/learning-node.git"
+  },
+  "keywords": [
+    "code",
+    "setup",
+    "by",
+    "vatsa"
+  ],
+  "author": "vatsal rishabh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DimpleKA/learning-node/issues"
+  },
+  "homepage": "https://github.com/DimpleKA/learning-node#readme",
+  "dependencies": {
+    "color": "^4.2.3",
+    "simple-node-logger": "^21.8.12"
+  }
+}
